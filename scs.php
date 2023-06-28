@@ -1,4 +1,4 @@
-/* SIMPLE COOKIE STEALER */
+/* SIMPLE COOKIE RETRIEVER */
 
 <?php 
 
